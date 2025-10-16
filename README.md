@@ -30,8 +30,8 @@ Key techniques used:
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/yourusername/airline-satisfaction-dl.git
-cd airline-satisfaction-dl
+git clone https://github.com/AbdullahAlbuqmi/Airline_Passengers_Satisfaction_Deeplearning_NN.git
+cd Airline_Passengers_Satisfaction_Deeplearning_NN
 
 # 2. Install Dependencies
 pip install -r requirements.txt

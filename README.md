@@ -38,3 +38,6 @@ pip install -r requirements.txt
 
 # 3. Train Model
 python Airline_Passenger_Satisfaction_NN.py
+
+
+<img width="1277" height="453" alt="Screenshot 2025-10-17 000126" src="https://github.com/user-attachments/assets/fe3f0a59-d7a8-4fcb-9655-f62687afef87" />
